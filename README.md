@@ -28,4 +28,4 @@ To run this notebook, you need to have Python installed. Additionally, you need 
 - Matplotlib
 - Seaborn
 
-You can install these libraries using pip:
+You can install these libraries using pip
